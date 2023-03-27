@@ -1,5 +1,5 @@
 ### Hi there 👋
-My name is Fran Zautzik, I'm from Santiago in Chile. I'm a Computer Science student at The University of Chile and I recently enrolled on the Master of Data Science.
+My name is Fran Zautzik, I'm from Santiago in Chile. I'm a Computer Science student at The University of Chile and I recently enrolled on the Masters of Data Science.
 
 - 😄 Pronouns: They/Them
 - 🔭 I’m currently working on my master's deegre thesis
