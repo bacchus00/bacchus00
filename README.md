@@ -1,10 +1,13 @@
 ### Hi there 👋
-My name is Fran Zautzik, I'm from Santiago in Chile. I'm a Computer Science student at The University of Chile and I recently enrolled on the Masters of Data Science.
+
+![](https://images.fanart.tv/fanart/revolutionary-girl-utena-571d3f85c9f40.jpg)
+
+My name is Fran Zautzik ✨, I'm from Santiago in Chile. I'm a Computer Science student at The University of Chile and I recently enrolled on the Masters of Data Science.
 
 - 😄 Pronouns: They/Them
-- 🔭 I’m currently working on my master's deegre thesis
-- 🌱 I’m currently learning web scrapping with Scrapy
-- 👯 I’m looking to collaborate on data science projects on social matters
+- 🔭 I’m currently working on my master's deegre thesis as part of the IMFD where I will be analysing contributions for campaigns
+- 🌱 I’m currently learning web scrapping with Scrapy to acces infomation atumatically from the web.
+- 👯 I’m looking to collaborate on data science projects that benefit the community and society as a whole.
 
 <!--
 **bacchus00/bacchus00** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
