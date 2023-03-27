@@ -1,4 +1,10 @@
 ### Hi there 👋
+My name is Fran Zautzik, I'm from Santiago in Chile. I'm a Computer Science student at The University of Chile and I recently enrolled on the Master of Data Science.
+
+- 😄 Pronouns: They/Them
+- 🔭 I’m currently working on my master's deegre thesis
+- 🌱 I’m currently learning web scrapping with Scrapy
+- 👯 I’m looking to collaborate on data science projects on social matters
 
 <!--
 **bacchus00/bacchus00** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
