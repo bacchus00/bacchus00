@@ -5,7 +5,7 @@
 My name is Fran Zautzik ✨, I'm from Santiago in Chile. I'm a Computer Science student at The University of Chile and I recently enrolled on the Masters of Data Science.
 
 - 😄 Pronouns: They/Them
-- 🔭 I’m currently working on my master's deegre thesis as part of the IMFD where I will be analysing contributions for campaigns
+- 🔭 I’m currently working on my master's deegre thesis as part of the IMFD where I'm analysing contributions for campaigns
 - 🌱 I’m currently learning web scrapping with Scrapy to acces infomation atumatically from the web.
 - 👯 I’m looking to collaborate on data science projects that benefit the community and society as a whole.
 
