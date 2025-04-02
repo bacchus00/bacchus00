@@ -2,11 +2,10 @@
 
 ![](https://images.fanart.tv/fanart/revolutionary-girl-utena-571d3f85c9f40.jpg)
 
-My name is Fran Zautzik ✨, I'm from Santiago in Chile. I'm a Computer Science student at The University of Chile and I recently enrolled on the Masters of Data Science.
+My name is Fran Zautzik ✨, I'm from Santiago in Chile. I'm a Computer Engineer from the University of Chile.
 
-- 😄 Pronouns: They/Them
-- 🔭 I’m currently working on my master's deegre thesis as part of the IMFD where I'm analysing contributions for campaigns
-- 🌱 I’m currently learning web scrapping with Scrapy to acces infomation automatically from the web.
+- 🔭 I’m currently working landing a good job where I can learn more and bring value to the world.
+- 🌱 I’m currently learning data engineering technologies.
 - 👯 I’m looking to collaborate on data science projects that benefit the community and society as a whole.
 
 <!--
